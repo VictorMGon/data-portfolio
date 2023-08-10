@@ -22,7 +22,7 @@ title: Portfolio page
 email: victormachado.cons@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   TODO: Description
-baseurl: "/REPOSITORY-NAME/" # the subpath of your site, e.g. /blog
+baseurl: "victormgon.github.io" # the subpath of your site, e.g. /blog
 url: "https://victormgon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n/a
 github_username:  VictorMGon
