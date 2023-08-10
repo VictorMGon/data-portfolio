@@ -1,0 +1,31 @@
+.row figure {
+    position: relative;
+    max-width: 350px;
+    background-color:rgb(42, 158, 121);
+    text-align: center;
+    float: left;
+    margin: 20px;
+    border-radius: 15px;
+  }
+
+.row img {
+  width: 100%;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.row .subtitle {
+  color: rgb(12, 62, 55);
+  font-size: xx-large;
+}
+
+.header .container .row div {
+  text-align: center;
+  background-color:rgb(116, 191, 166);
+  margin: 20px;
+  border-radius: 20px;
+}
+
+a {
+  color: #253d5c;
+  font-weight: 300;
+}
