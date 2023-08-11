@@ -22,14 +22,15 @@ p {
 
 figure p,h2{
   color: var(--font-color);
-  /* font-size: 100%; */
+  margin: 0px;
 }
 
 figure h2{
   position: absolute;
   bottom: 1em;
-  left: 1em;
+  left: 0.5em;
   opacity: 0;
+  font-size: 200%;
 }
 
 figure p{
@@ -37,6 +38,7 @@ figure p{
   bottom: 0em;
   left: 1em;
   opacity: 0;
+  font-size: 100%;
 }
 
 figure:hover h2, figure:hover p{
@@ -71,6 +73,7 @@ figure {
   float: left;
   margin: 20px;
   border-radius: 15px;
+  overflow: hidden;
 }
 
 .header .container .row div {
