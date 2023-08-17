@@ -96,3 +96,7 @@ a {
   font-weight: 300;
   text-decoration: none;
 }
+
+iframe {
+  border-radius: 20px;
+}
