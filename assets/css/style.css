@@ -46,6 +46,14 @@ figure:hover h2, figure:hover p{
   transition: opacity 500ms;
 }
 
+.uncnstrctn figure{
+  background-color: rgb(0, 0, 0);
+}
+
+.uncnstrctn figure img, .uncnstrctn figure:hover img, .uncnstrctn figure p, .uncnstrctn figure:hover p, .uncnstrctn figure h2, .uncnstrctn figure:hover h2 {
+  opacity: 0.3;
+}
+
 figure img{
   width: 100%;
   border-radius: 15px;
