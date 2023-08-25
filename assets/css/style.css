@@ -28,17 +28,16 @@ figure p,h2{
 figure h2{
   position: absolute;
   bottom: 1em;
-  left: 0.5em;
   opacity: 0;
   font-size: 200%;
 }
 
 figure p{
   position: absolute;
-  bottom: 0em;
-  left: 1em;
+  bottom: 0.5em;
   opacity: 0;
   font-size: 100%;
+  height: 1em;
 }
 
 figure:hover h2, figure:hover p{
